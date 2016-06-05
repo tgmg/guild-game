@@ -1,6 +1,6 @@
-# The Guild Master Game (GMG)
+# The Guild Management Game (GMG)
 
-Game where the player are the guild master (manager) and lead an legion of heroes (workers) to deafead your enemies and be the strongest guild in server
+Game where the player are the guild manager and lead an legion of heroes (workers) to deafead your enemies and be the strongest guild in server
 
 ## About the software
 
