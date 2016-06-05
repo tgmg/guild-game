@@ -1,8 +1,6 @@
-# The Guild Master Game (GG)
+# The Guild Master Game (GMG)
 
-Game where you are the guild master and lead an legion of heroes to deafead your enemies and be the strongest guild in server
-
-Open source!
+Game where the player are the guild master (manager) and lead an legion of heroes (workers) to deafead your enemies and be the strongest guild in server
 
 ## About the software
 
