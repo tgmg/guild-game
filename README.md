@@ -99,11 +99,17 @@ The player need to set one or more heroes for this tasks in guild or the guild w
 
 .... to be continued ......
 
+## About the software
+
+Hero status, messages, emails, pictures and texts will be configurable.
+
+Build for extend with simple start structure and install script 
+
+You may reuse this software for make you own game in same structure, extend it, make new interfaces ... etc
 
 ## Want improve this game?
 
-> Open one issue or Edit this file and send one pull request
-
+> Open one [issue](https://github.com/tgmg/guild-game/issues/new) or Edit this file and send one pull request
 
 ## Copyright and License
 
