@@ -6,11 +6,11 @@ Open source!
 
 ## About the software
 
-Hero status, messages, emails, pictures and texts will be configurable.
-Build for extend with simple start structure and install script 
-You may reuse this software for make you own game in same structure, extend it, make new interfaces ... etc
+This software will be open source and may be used for simple management games like school, hospital, organization management and learning games.
 
-This software may be used for simple management games like school, hospital, organization management and learning games.
+- Hero status, messages, emails, pictures and texts will be configurable.
+- Build for extend with simple start structure and install script 
+- You may reuse this software for make you own game in same structure, extend it, make new interfaces ... etc
 
 ## Playing
 
