@@ -4,6 +4,14 @@ Game where you are the guild master and lead an legion of heroes to deafead your
 
 Open source!
 
+## About the software
+
+Hero status, messages, emails, pictures and texts will be configurable.
+Build for extend with simple start structure and install script 
+You may reuse this software for make you own game in same structure, extend it, make new interfaces ... etc
+
+This software may be used for simple management games like school, hospital, organization management and learning games.
+
 ## Playing
 
 ### v1
@@ -98,14 +106,6 @@ The player need to set one or more heroes for this tasks in guild or the guild w
 
 
 .... to be continued ......
-
-## About the software
-
-Hero status, messages, emails, pictures and texts will be configurable.
-
-Build for extend with simple start structure and install script 
-
-You may reuse this software for make you own game in same structure, extend it, make new interfaces ... etc
 
 ## Want improve this game?
 
