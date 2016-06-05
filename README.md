@@ -107,5 +107,5 @@ The player need to set one or more heroes for this tasks in guild or the guild w
 
 ## Copyright and License
 
-Under [the MIT license](https://github.com/wejs/we-core/blob/master/LICENSE.md).
+Under [the MIT license](LICENSE.md).
 
