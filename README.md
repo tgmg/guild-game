@@ -97,10 +97,15 @@ The player need to set one or more heroes for this tasks in guild or the guild w
   - status: Inteligence + Luck 
 
 
-
-
-
-
-
-
 .... to be continued ......
+
+
+## Want improve this game?
+
+> Open one issue or Edit this file and send one pull request
+
+
+## Copyright and License
+
+Under [the MIT license](https://github.com/wejs/we-core/blob/master/LICENSE.md).
+
