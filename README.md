@@ -29,6 +29,8 @@ Balanced life has no advantages disadvantages
   Inteligent life forms. Some times you can see aliens playing with cowns
 - Demon<br>
   Resistent creatures from hell, many demons were tired of playing with souls in hell and come to earth
+- Angel<br>
+  ...
 - Gnome<br>
   Small and fast creatures how only want earn money. 
 - Ogre<br>
@@ -39,6 +41,9 @@ Balanced life has no advantages disadvantages
 - Strength
 - Agility
 - Intelligence
+- Perception
+- Endurance
+- Charisma
 - Luck
 
 
