@@ -1,8 +1,10 @@
 # The Group Management Game (GMG)
 
-Software for build games where the user will be the team manager and will lead an "legion of heroes" (workers) to deafead your enemies and build the powerfull team in game world
+Software for build games where the user will be the team manager and will lead an "legion of heroes" (workers) to deafead your enemies and build the powerfull team in game world.
 
-The software will be configurable and all texts, images and missions may be customized to change the game theme or subject and will help make games in this format
+The software will be configurable and all texts, images and missions may be customized to change the game theme or subject.
+
+Your company, school or friends want make one game in same format? with this software this will be easy!
 
 ## About the software
 
