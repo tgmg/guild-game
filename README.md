@@ -1,4 +1,4 @@
-# The Group Management Game (GMG)
+# Group Management Game Builder
 
 Software for build games where the user will be the team manager and will lead an "legion of heroes" (workers) to deafead your enemies and build the powerfull team in game world.
 
