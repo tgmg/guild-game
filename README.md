@@ -2,7 +2,7 @@
 
 Software for build games where the user will be the team manager and will lead an "legion of heroes" (workers) to deafead your enemies and build the powerfull team in game world
 
-The software will be configurable and all texts, images and missions may be customized to change the game theme or subject
+The software will be configurable and all texts, images and missions may be customized to change the game theme or subject and will help make games in this format
 
 ## About the software
 
