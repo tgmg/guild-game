@@ -40,28 +40,30 @@ This software will be open source and may be used for simple team management gam
 
 ### v2
 
-PVP! Turn based battles with your heroes against people in world.
+Card like game. like The Witcher 3 The Gwent Card Game but with your heroes and against other players
 
 ### v3
 
-Card like game. like The Witcher 3 The Gwent Card Game but with your heroes and against other players
+Turn based pLayer against player (PVP)  battles with your heroes against people in world.
+
+The battle will be like Pokemon battles but with your heroes.
 
 ## Heroes
 
 ### Races
 
-- Human<br>
-  Balanced life has no advantages disadvantages
-- Alien<br>
-  Inteligent life forms. Some times you can see aliens playing with cowns
-- Demon<br>
-  Resistent creatures from hell, many demons were tired of playing with souls in hell and come to earth
-- Angel<br>
-  Beautiful and charismatic creatures from heaverns
-- Gnome<br>
-  Small and fast creatures how only want earn money. 
-- Ogre<br>
-  Big and strong creatures
+- Human
+  - Balanced life has no advantages disadvantages
+- Alien
+  - Inteligent life forms. Some times you can see aliens playing with cowns
+- Demon
+  - Resistent creatures from hell, many demons were tired of playing with souls in hell and come to earth
+- Angel
+  - Beautiful and charismatic creatures from heaverns
+- Gnome
+  - Small and fast creatures how only want earn money. 
+- Ogre
+  - Big and strong creatures
 
 ### Hero status
 
@@ -75,13 +77,12 @@ Card like game. like The Witcher 3 The Gwent Card Game but with your heroes and 
 
 ## Group
 
-Group may be: Guild, Organization, Spaceship ... etc
+Group will be related to game theme and may be things like: a Guild, Organization, Spaceship ... etc
 
 ### Resources:
 
-Resources may be renamed
-
 - Gold
+- Food
 - Water
 - Energy / power
 
@@ -91,12 +92,12 @@ In every day you will receive new missions and some missions have storyline with
 
 Properties of one mission:
 - Enemies or challenges
-- Hero count
+- Maximum heroes to send
   - Number of heroes required to do this mission
-- Status requirement:
+- Status requirements
   - Sum of hero status
 - Success chance
-  - Measured from hero status / abilities
+  - Measured from hero status, skills and professions
   - Luky count can improve success chance 
 
 ### Group work
@@ -121,7 +122,7 @@ Others works for generate money:
 - Play games in guild room:
   - status: Inteligence + Luck 
 
-## Want improve this game?
+## Want help or request a new feature?
 
 > Open one [issue](https://github.com/tgmg/guild-game/issues/new) or Edit this file and send one pull request
 
