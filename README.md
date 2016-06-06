@@ -1,10 +1,25 @@
-# The Guild Management Game (GMG)
+# The Group Management Game (GMG)
 
-Game where the player are the guild manager and lead an legion of heroes (workers) to deafead your enemies and be the strongest guild in server
+Software for build games where the user will be the team manager and will lead an "legion of heroes" (workers) to deafead your enemies and build the powerfull team in game world
+
+The software will be configurable and all texts, images and missions may be customized to change the game theme or subject
 
 ## About the software
 
-This software will be open source and may be used for simple management games like school, hospital, organization management and learning games.
+This software will be open source and may be used for simple team management games. Example:
+  
+- Space hero team
+  - Hire heroes
+  - Fight against monsters and problems in the universe
+  - Maintain one spaceship
+- Guilds
+  - Guilds may be like Fairy tail guilds: https://pt.wikipedia.org/wiki/Fairy_Tail
+  - Hire mages
+  - Do guild missions for gold and UP your heroes
+- School
+  - Hire teachers
+  - And missions will be related to "lessons"
+  - Maintain the school
 
 - Hero status, messages, emails, pictures and texts will be configurable.
 - Build for extend with simple start structure and install script 
@@ -58,9 +73,14 @@ Card like game. like The Witcher 3 The Gwent Card Game but with your heroes and 
 - Charisma
 - Luck
 
-## Guild
+## Group
 
-## Resources:
+Group may be: Guild, Organization, Spaceship ... etc
+
+### Resources:
+
+Resources may be renamed
+
 - Gold
 - Water
 - Energy / power
@@ -79,12 +99,11 @@ Properties of one mission:
   - Measured from hero status / abilities
   - Luky count can improve success chance 
 
-## Guild work
+### Group work
 
-Tasks required for mantain your guild. 
+Tasks required for mantain your group. 
 The player need to set one or more heroes for this tasks in guild or the guild will lost gold and missions may have low success rate
-
-### Required for expansion:
+Are required for expansion
 
 - Make food:
   - Status: Perception + Inteligence 
@@ -95,15 +114,12 @@ The player need to set one or more heroes for this tasks in guild or the guild w
 - Cleaning
   - Status: Agility + Perception
 
-### Generate money:
+Others works for generate money:
 
 - Sell things and bartender:
   - status: Charisma + Luck
 - Play games in guild room:
   - status: Inteligence + Luck 
-
-
-.... to be continued ......
 
 ## Want improve this game?
 
