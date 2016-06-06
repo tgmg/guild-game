@@ -20,50 +20,45 @@ This software will be open source and may be used for simple team management gam
   - Hire teachers
   - And missions will be related to "lessons"
   - Maintain the school
-
 - Hero status, messages, emails, pictures and texts will be configurable.
 - Build for extend with simple start structure and install script 
 - You may reuse this software for make you own game in same structure, extend it, make new interfaces ... etc
 
-## Playing
+## Features and software versions
 
-### v1
+### Version 1
 
-- You have some heroes in your guild and receive daily missions from people. 
-- Choise how hero will do each mission.
-- After each mission you and your heroes will receive experience, items and gold.
-- Missions have time for completion
-- Hire new heroes with gold.
-- Every hero starts with level 1 and with 10 randon status points distributed
-  - After every level it will receive 1 point in main status and 3 points in other randon status 
-- GUild jobs, put heroes in jobs like make food or generate energy maintain your guild
+- Group / Guild
+  - Group resources
+  - Maintenance tasks  
+  - Maximum vacancy for heroes in group
+- Heores
+  - Receive 3 starter heroes on group creation
+  - Hire new heroes with gold
+  - Random generated heroes to hire
+  - Every hero starts with level 1 and with 21 status points distributed based in race
+    - After every level it will receive 1 point in main status and 3 points in other randon status 
+  - Choise how hero will do each mission
+- Missions
+  - After each mission you and your heroes will receive experience, items and gold
+  - Missions have time for completion
+  - Receive daily missions from people
 
-### v2
+### Version 2
 
-Card like game. like The Witcher 3 The Gwent Card Game but with your heroes and against other players
+- Card like game. 
+  - Your heroes will be the cards
+  - Like The Witcher 3 The Gwent Card Game but 
+  - Against other players
 
-### v3
+### Version 3
 
-Turn based pLayer against player (PVP)  battles with your heroes against people in world.
+- Mobile application example for build mobile game clients
 
-The battle will be like Pokemon battles but with your heroes.
+### Version 4
 
-## Heroes
-
-### Races
-
-- Human
-  - Balanced life has no advantages disadvantages
-- Alien
-  - Inteligent life forms. Some times you can see aliens playing with cowns
-- Demon
-  - Resistent creatures from hell, many demons were tired of playing with souls in hell and come to earth
-- Angel
-  - Beautiful and charismatic creatures from heaverns
-- Gnome
-  - Small and fast creatures how only want earn money. 
-- Ogre
-  - Big and strong creatures
+- Turn based pLayer against player (PVP) battles with your heroes against people in world.
+- The battle will be like Pokemon battles but with your heroes.
 
 ### Hero status
 
@@ -122,6 +117,25 @@ Others works for generate money:
 - Play games in guild room:
   - status: Inteligence + Luck 
 
+## First game will be hosted for 1 year and will have:
+
+Mix of Magic, War and space thematic
+
+### Hero races 
+
+- Human
+  - Balanced life has no advantages disadvantages
+- Alien
+  - Inteligent life forms. Some times you can see aliens playing with cowns
+- Demon
+  - Resistent creatures from hell, many demons were tired of playing with souls in hell and come to earth
+- Angel
+  - Beautiful and charismatic creatures from heaverns
+- Gnome
+  - Small and fast creatures how only want earn money. 
+- Ogre
+  - Big, strong and dumb creatures
+
 ## Want help or request a new feature?
 
 > Open one [issue](https://github.com/tgmg/guild-game/issues/new) or Edit this file and send one pull request
@@ -129,4 +143,3 @@ Others works for generate money:
 ## Copyright and License
 
 Under [the MIT license](LICENSE.md).
-
